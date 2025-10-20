@@ -13,7 +13,7 @@
 - 💻 Computer Science Student  
 - 🧠 Learning C, C++, and Python  
 - 🧩 Interested in automation, cybersecurity, and problem-solving  
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)  
+- 📫 Let's connect: [LinkedIn](www.linkedin.com/in/leanne-kidder)  
 - ⚡ Fun fact: I believe every bug is just an unintentional feature waiting for purpose  
 
 ---
