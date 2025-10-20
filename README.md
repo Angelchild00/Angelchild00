@@ -40,6 +40,9 @@
 
 ---
 
+### Summon my otherself
+😼 For a touch of chaos and creativity, follow my digital familiar over at <a href="https://github.com/GlitchKitten07" target="_blank">main GitHub profile</a>.
+
 <div align="center">
   <sub>💬 “Learning is just debugging your own understanding.”</sub>
 </div>
